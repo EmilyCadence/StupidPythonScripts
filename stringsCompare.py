@@ -40,6 +40,7 @@ def compareStrings(_string1, _string2):
     print('string 1 and 2 are equal ignoring case')
   else:
     print('string 1 and 2 do not match')
+    
 #----------------main loop------------------
 
 while ans.lower() != 'x':
