@@ -29,8 +29,8 @@ def getSecondString():
 def stringInfo(_string1, _string2):
   print("string 1 = ", _string1)
   print("string 2 = ", _string2)
-  print("string has a length of: ", len(_string1), " chars")
-  print("string has a length of: ", len(_string2), " chars")
+  print("string 1 has a length of: ", len(_string1), " chars")
+  print("string 2 has a length of: ", len(_string2), " chars")
    
  
 def compareStrings(_string1, _string2):
